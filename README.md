@@ -3,7 +3,7 @@ GOIL Stock Price Direction Prediction using GASVM
 
 A Genetic Algorithm–Optimized SVM Approach Applied to the Ghana Stock Exchange
 
-📝 Overview
+Overview
 
 This project applies a GASVM (Genetic Algorithm + Support Vector Machine) model to predict the 10-day ahead price direction of GOIL (Ghana Oil Company Ltd), one of the most actively traded companies on the Ghana Stock Exchange (GSE).
 
